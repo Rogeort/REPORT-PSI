@@ -24,4 +24,9 @@
         display: none;
 
     }
+     iframe{
+        width: 800;
+        height: 400;
+    }
+    
 }
